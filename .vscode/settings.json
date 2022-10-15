@@ -26,9 +26,7 @@
     "pthread.h": "c",
     "assert.h": "c",
     "csvreader.h": "c",
-    "stdio.h": "c",
-    "random": "c",
-    "time.h": "c"
+    "stdio.h": "c"
   },
   "workbench.startupEditor": "newUntitledFile",
   "git.enableSmartCommit": true,
@@ -113,5 +111,6 @@
   "C_Cpp_Runner.debuggerPath": "C:/cygwin64/bin/gdb.exe",
   "C_Cpp_Runner.msvcBatchPath": "",
   "C_Cpp_Runner.useMsvc": false,
-  "C_Cpp.codeAnalysis.clangTidy.enabled": false
+"C_Cpp.codeAnalysis.clangTidy.enabled": false,
+"C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools"
 }
