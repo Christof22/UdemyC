@@ -8,7 +8,7 @@
     80,
     120
   ],
-  "editor.fontSize": 21,
+  "editor.fontSize": 14,
   "markdown.preview.fontSize": 26,
   "editor.renderWhitespace": "trailing",
   "editor.suggestSelection": "first",
